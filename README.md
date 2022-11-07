@@ -2,3 +2,4 @@
 HTR Handwriting line recognition (OCR)
 
 
+<img src="Figures/Model.jpg" width="800"/>
